@@ -1,7 +1,5 @@
-package part5;
+package openClosed.part5;
 
-
-import jdk.nashorn.internal.ir.CallNode;
 
 public abstract class PriTime {
     abstract long time();

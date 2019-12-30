@@ -1,4 +1,4 @@
-package part1;
+package openClosed.part1;
 
 public class Button {
     public final static int SEND_BUTTON = -99;

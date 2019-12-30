@@ -1,8 +1,8 @@
-package part4;
+package openClosed.part4;
 
-import part3.Button;
-import part3.ButtonListener;
-import part3.Dialer;
+import openClosed.part3.Button;
+import openClosed.part3.ButtonListener;
+import openClosed.part3.Dialer;
 
 public class Phone {
     private Dialer dialer;

@@ -1,4 +1,4 @@
-package part3;
+package openClosed.part3;
 
 public class Phone {
     private Dialer dialer;

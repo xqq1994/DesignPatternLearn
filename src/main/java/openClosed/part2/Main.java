@@ -1,4 +1,4 @@
-package part2;
+package openClosed.part2;
 
 public class Main {
     public static void main(String[] args) {

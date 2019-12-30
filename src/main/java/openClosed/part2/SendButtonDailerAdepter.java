@@ -1,4 +1,4 @@
-package part2;
+package openClosed.part2;
 
 public class SendButtonDailerAdepter implements ButtonServer {
     private Dialer dialer;

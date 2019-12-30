@@ -1,4 +1,4 @@
-package part2;
+package openClosed.part1;
 
 public class Dialer {
     public void enterDigit(int digit) {

@@ -1,4 +1,4 @@
-package part3;
+package openClosed.part4;
 
 public interface ButtonListener {
     void buttonPressed();

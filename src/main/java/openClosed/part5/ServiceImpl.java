@@ -1,4 +1,4 @@
-package part5;
+package openClosed.part5;
 
 public class ServiceImpl implements Service {
     public void doSomeThing() {

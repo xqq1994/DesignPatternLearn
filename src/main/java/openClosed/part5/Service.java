@@ -1,4 +1,4 @@
-package part5;
+package openClosed.part5;
 
 public interface Service {
     void doSomeThing();
